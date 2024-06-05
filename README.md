@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Quinny 👋
 
 <!--
 **quinnlao/quinnlao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,32 +19,32 @@ Here are some ideas to get you started:
     <td>
       <h3>Skills & Tools 🛠</h3>
       <h4>Language</h4>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/html5.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/css3.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/javascript.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/typescript.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/less.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/sass.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/node-js.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/html5.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/css3.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/javascript.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/typescript.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/less.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/sass.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/node-js.png"></code>
       <br>
       <h4>Framework</h4>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/vuejs.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/react.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/vuejs.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/react.png"></code>
       <br>
       <h4>Tools</h4>
       <h6>Project Tools</h6>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/git.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.3/ICONS/npm.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.2/ICONS/pnpm.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.2/ICONS/webpack.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.2/ICONS/vite.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.2/ICONS/qiankun.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.2/ICONS/monorepo.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/git.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/npm.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/pnpm.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/webpack.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/vite.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/qiankun.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/monorepo.png"></code>
       <h6>Develop Tools</h6>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/webstorm.jpg"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/vs-code.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/chrome.png"></code>
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@0.1/ICONS/postman.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/webstorm.jpg"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/vs-code.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/chrome.png"></code>
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/postman.png"></code>
     </td>
     <td>
 <!--       <h3>Views 👀</h3> -->
