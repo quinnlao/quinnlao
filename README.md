@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About me:
 <tr>
     <td>
-      <h3>Skills & Tools 🛠</h3>
+      <h3>Technical Stack 🛠</h3>
       <h4>Language</h4>
       <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/html5.png"></code>
       <code><img height="40" src="https://cdn.jsdelivr.net/gh/quinnlao/CDNS@latest/ICONS/css3.png"></code>
