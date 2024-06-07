@@ -1,5 +1,5 @@
 ## Hi, I'm Quinny 👋
-[My Blog](https://quinnlao.github.io/NoteDocs/#/)
+[**My Blog**](https://quinnlao.github.io/NoteDocs/#/)
 
 <!--
 **quinnlao/quinnlao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
